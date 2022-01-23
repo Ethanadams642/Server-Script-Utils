@@ -1,4 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ethanadams642&show_icons=true)[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 # Server-Script-Utils
 A collection of scripts to help automate the deployment of whatever I feel like makeing one for.
