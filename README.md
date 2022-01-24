@@ -3,11 +3,11 @@
 # Server-Script-Utils
 A collection of scripts to help automate the deployment of whatever I feel like makeing one for.
 #### Warning
-These scripts are designed ONLY with ubuntu server running on arm64, Youre results may vary.
+These scripts are designed ONLY with ubuntu server running on arm64 in mind, You're results may vary.
 
 ---
 ## Pterodactyl
-placeholder
+Follow the steps in [This](google.com) wiki page to install pterodactyl panel.
 
 ---
 ## Puffer Panel
