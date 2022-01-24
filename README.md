@@ -7,7 +7,7 @@ These scripts are designed ONLY with ubuntu server running on arm64 in mind, You
 
 ---
 ## Pterodactyl
-Follow the steps in [This](google.com) wiki page to install pterodactyl panel.
+Follow the steps in [[Pterodactyl Installer]] wiki page to install pterodactyl panel.
 
 ---
 ## Puffer Panel
